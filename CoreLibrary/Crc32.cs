@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoreLibrary
+namespace JokerLib
 {
     public sealed class Crc32 : HashAlgorithm
     {
