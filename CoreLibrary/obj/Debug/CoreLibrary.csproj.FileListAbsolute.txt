@@ -1,0 +1,4 @@
+c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\bin\Debug\CoreLibrary.dll
+c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\bin\Debug\CoreLibrary.pdb
+c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\obj\Debug\CoreLibrary.dll
+c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\obj\Debug\CoreLibrary.pdb
