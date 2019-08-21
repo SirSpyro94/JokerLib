@@ -7,8 +7,8 @@
     <ProjectGuid>{6BD2B7B9-CF0C-4105-8360-A1DF0D6BC804}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CoreLibrary</RootNamespace>
-    <AssemblyName>CoreLibrary</AssemblyName>
+    <RootNamespace>JokerLib</RootNamespace>
+    <AssemblyName>JokerLib</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

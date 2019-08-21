@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibrary", "CoreLibrary\CoreLibrary.csproj", "{6BD2B7B9-CF0C-4105-8360-A1DF0D6BC804}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JokerLib", "CoreLibrary\JokerLib.csproj", "{6BD2B7B9-CF0C-4105-8360-A1DF0D6BC804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

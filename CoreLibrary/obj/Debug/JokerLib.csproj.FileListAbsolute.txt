@@ -1,0 +1,4 @@
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\bin\Debug\JokerLib.dll
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\bin\Debug\JokerLib.pdb
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\obj\Debug\JokerLib.dll
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\obj\Debug\JokerLib.pdb

@@ -2,3 +2,7 @@ c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\bin\
 c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\bin\Debug\CoreLibrary.pdb
 c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\obj\Debug\CoreLibrary.dll
 c:\users\mike\documents\visual studio 2012\Projects\CoreLibrary\CoreLibrary\obj\Debug\CoreLibrary.pdb
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\bin\Debug\JokerLib.dll
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\bin\Debug\JokerLib.pdb
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\obj\Debug\JokerLib.dll
+C:\Users\Mike\Documents\GitHub\CoreLibrary\CoreLibrary\obj\Debug\JokerLib.pdb
