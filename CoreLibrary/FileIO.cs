@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Windows.Forms;
 
 namespace JokerLib
 {
@@ -39,6 +40,18 @@ namespace JokerLib
             this.reader = new BinaryReader(stream);
             this.writer = new BinaryWriter(stream);
             this.bigEndian = bigEndian;
+        }
+
+        public static FileIO OpenIO(string title, string filter, bool bigEndian = false)
+        {
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Title = title;
+            ofd.Filter = filter;
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                return new FileIO(ofd.FileName, bigEndian);
+            }
+            return null;
         }
 
         public byte ReadByte()
